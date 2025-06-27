@@ -1,0 +1,5 @@
+# Readme
+
+在配置文件config.py中修改ollama端口号以及对应的embedding模型和LLM
+
+测试不同embedding模型时候，需要把data文件夹下之前生成的cache和chroam_db删掉
