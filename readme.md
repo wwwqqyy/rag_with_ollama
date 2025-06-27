@@ -2,4 +2,6 @@
 
 在配置文件config.py中修改ollama端口号以及对应的embedding模型和LLM
 
-测试不同embedding模型时候，需要把data文件夹下之前生成的cache和chroam_db删掉
+可测试不同embedding模型的召回率
+
+环境安装完成后一键运行```python pipeline.py```即可测试结果

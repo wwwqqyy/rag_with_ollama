@@ -142,7 +142,7 @@ if __name__ == "__main__":
     pipeline.process_directory()
     
     # 预定义第一个问题
-    first_question = "石油天然气开采单位应如何编制应急预案？"
+    first_question = "什么是地层压力和异常高压？"
     questions_asked = 0
     
     # 交互式问答
